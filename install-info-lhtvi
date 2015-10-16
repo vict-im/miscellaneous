@@ -1,0 +1,232 @@
+lxml
+
+C:\Users\lhtvi>pip install lxml
+Collecting lxml
+  Downloading lxml-3.4.4-cp27-none-win_amd64.whl (3.3MB)
+    100% |################################| 3.3MB 128kB/s
+Installing collected packages: lxml
+Successfully installed lxml-3.4.4
+
+
+werkzeug
+
+C:\Users\lhtvi>pip install werkzeug
+Collecting werkzeug
+  Downloading Werkzeug-0.10.4-py2.py3-none-any.whl (293kB)
+    100% |################################| 294kB 561kB/s
+Installing collected packages: werkzeug
+Successfully installed werkzeug-0.10.4
+
+
+decorator
+
+C:\Users\lhtvi>pip install decorator
+Collecting decorator
+  Downloading decorator-4.0.4-py2.py3-none-any.whl
+Installing collected packages: decorator
+Successfully installed decorator-4.0.4
+
+
+dateutil
+
+C:\Users\lhtvi>pip install python-dateutil
+Collecting python-dateutil
+  Downloading python_dateutil-2.4.2-py2.py3-none-any.whl (188kB)
+    100% |################################| 192kB 401kB/s
+Collecting six>=1.5 (from python-dateutil)
+  Downloading six-1.10.0-py2.py3-none-any.whl
+Installing collected packages: six, python-dateutil
+Successfully installed python-dateutil-2.4.2 six-1.10.0
+
+
+pytz
+
+C:\Users\lhtvi>pip install pytz
+Collecting pytz
+  Downloading pytz-2015.6-py2.py3-none-any.whl (475kB)
+    100% |################################| 475kB 910kB/s
+Installing collected packages: pytz
+Successfully installed pytz-2015.6
+
+
+psycopg2 => exe
+
+
+babel
+C:\Users\lhtvi>pip install babel
+Collecting babel
+  Downloading Babel-2.1.1-py2.py3-none-any.whl (3.6MB)
+    100% |################################| 3.6MB 109kB/s
+Requirement already satisfied (use --upgrade to upgrade): pytz>=0a in c:\python27\lib\site-packages (from babel)
+Installing collected packages: babel
+Successfully installed babel-2.1.1
+
+
+win32service => exe
+
+
+yaml
+
+C:\Users\lhtvi>pip install pyyaml
+Collecting pyyaml
+  Downloading PyYAML-3.11.tar.gz (248kB)
+    100% |################################| 249kB 265kB/s
+Installing collected packages: pyyaml
+  Running setup.py install for pyyaml
+Successfully installed pyyaml-3.11
+
+
+pil
+
+C:\Users\lhtvi>pip install pillow
+Collecting pillow
+  Downloading Pillow-3.0.0-cp27-none-win_amd64.whl (1.3MB)
+    100% |################################| 1.3MB 248kB/s
+Installing collected packages: pillow
+Successfully installed pillow-3.0.0
+
+
+reportlab
+
+C:\Users\lhtvi>pip install pillow
+Collecting pillow
+  Downloading Pillow-3.0.0-cp27-none-win_amd64.whl (1.3MB)
+    100% |################################| 1.3MB 248kB/s
+Installing collected packages: pillow
+Successfully installed pillow-3.0.0
+
+C:\Users\lhtvi>pip install reportlab
+Collecting reportlab
+  Downloading reportlab-3.2.0-cp27-none-win_amd64.whl (2.1MB)
+    100% |################################| 2.1MB 199kB/s
+Requirement already satisfied (use --upgrade to upgrade): pip>=1.4.1 in c:\python27\lib\site-packages (from reportlab)
+Requirement already satisfied (use --upgrade to upgrade): pillow>=2.4.0 in c:\python27\lib\site-packages (from reportlab)
+Requirement already satisfied (use --upgrade to upgrade): setuptools>=2.2 in c:\python27\lib\site-packages (from reportlab)
+Installing collected packages: reportlab
+Successfully installed reportlab-3.2.0
+
+
+mako
+
+C:\Users\lhtvi>pip install mako
+Collecting mako
+  Downloading Mako-1.0.2.tar.gz (564kB)
+    100% |################################| 565kB 426kB/s
+Collecting MarkupSafe>=0.9.2 (from mako)
+  Downloading MarkupSafe-0.23.tar.gz
+Installing collected packages: MarkupSafe, mako
+  Running setup.py install for MarkupSafe
+  Running setup.py install for mako
+Successfully installed MarkupSafe-0.23 mako-1.0.2
+
+
+pychart
+
+C:\Users\lhtvi>pip install http://download.gna.org/pychart/PyChart-1.39.tar.gz
+Collecting http://download.gna.org/pychart/PyChart-1.39.tar.gz
+  Downloading http://download.gna.org/pychart/PyChart-1.39.tar.gz (115kB)
+    100% |################################| 118kB 73kB/s
+Installing collected packages: PyChart
+  Running setup.py install for PyChart
+Successfully installed PyChart-1.39
+
+
+requests
+
+C:\Users\lhtvi>pip install requests
+Collecting requests
+  Downloading requests-2.8.1-py2.py3-none-any.whl (497kB)
+    100% |################################| 499kB 74kB/s
+Installing collected packages: requests
+Successfully installed requests-2.8.1
+
+
+jinja2
+
+C:\Users\lhtvi>pip install jinja2
+Collecting jinja2
+  Downloading Jinja2-2.8-py2.py3-none-any.whl (263kB)
+    100% |################################| 266kB 347kB/s
+Requirement already satisfied (use --upgrade to upgrade): MarkupSafe in c:\python27\lib\site-packages (from jinja2)
+Installing collected packages: jinja2
+Successfully installed jinja2-2.8
+
+
+docutils
+
+C:\Users\lhtvi>pip install docutils
+Collecting docutils
+  Downloading docutils-0.12.tar.gz (1.6MB)
+    100% |################################| 1.6MB 195kB/s
+Installing collected packages: docutils
+  Running setup.py install for docutils
+Successfully installed docutils-0.12
+
+
+pyPdf
+
+C:\Users\lhtvi>pip install pyPdf
+Collecting pyPdf
+  Downloading pyPdf-1.13.tar.gz
+Installing collected packages: pyPdf
+  Running setup.py install for pyPdf
+Successfully installed pyPdf-1.13
+
+
+passlib
+
+C:\Users\lhtvi>pip install passlib
+Collecting passlib
+  Downloading passlib-1.6.5-py2.py3-none-any.whl (317kB)
+    100% |################################| 319kB 401kB/s
+Installing collected packages: passlib
+Successfully installed passlib-1.6.5
+
+
+Wkhtmltopdf
+
+
+G:\Windows\eclipse.mars.jee\eclipse>pip install Wkhtmltopdf
+Collecting Wkhtmltopdf
+  Downloading wkhtmltopdf-0.2.tar.gz
+Installing collected packages: Wkhtmltopdf
+  Running setup.py install for Wkhtmltopdf
+Successfully installed Wkhtmltopdf-0.2
+
+
+simplejson
+
+G:\Windows\eclipse.mars.jee\eclipse>pip install simplejson
+Collecting simplejson
+  Downloading simplejson-3.8.0.tar.gz (75kB)
+    100% |################################| 77kB 1.2MB/s
+Installing collected packages: simplejson
+  Running setup.py install for simplejson
+Successfully installed simplejson-3.8.
+
+
+unittest2
+
+G:\Windows\eclipse.mars.jee\eclipse>pip install unittest2
+Collecting unittest2
+  Downloading unittest2-1.1.0-py2.py3-none-any.whl (96kB)
+    100% |################################| 98kB 772kB/s
+Collecting argparse (from unittest2)
+  Downloading argparse-1.4.0-py2.py3-none-any.whl
+Collecting traceback2 (from unittest2)
+  Downloading traceback2-1.4.0-py2.py3-none-any.whl
+Requirement already satisfied (use --upgrade to upgrade): six>=1.4 in c:\python27\lib\site-packages (from unittest2)
+Collecting linecache2 (from traceback2->unittest2)
+  Downloading linecache2-1.0.0-py2.py3-none-any.whl
+Installing collected packages: argparse, linecache2, traceback2, unittest2
+Successfully installed argparse-1.4.0 linecache2-1.0.0 traceback2-1.4.0 unittest2-1.1.0
+
+openid
+
+G:\Windows\eclipse.mars.jee\eclipse>pip install python-openid
+Collecting python-openid
+  Downloading python-openid-2.2.5.tar.gz (301kB)
+    100% |################################| 303kB 288kB/s
+Installing collected packages: python-openid
+  Running setup.py install for python-openid
+Successfully installed python-openid-2.2.5
